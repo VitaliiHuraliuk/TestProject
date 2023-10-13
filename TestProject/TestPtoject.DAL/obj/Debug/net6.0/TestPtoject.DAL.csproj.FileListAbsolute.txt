@@ -1,0 +1,15 @@
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\bin\Debug\net6.0\TestPtoject.DAL.deps.json
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\bin\Debug\net6.0\TestPtoject.DAL.dll
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\bin\Debug\net6.0\TestPtoject.DAL.pdb
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\bin\Debug\net6.0\TestProject.Models.dll
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\bin\Debug\net6.0\TestProject.Models.pdb
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.DAL.csproj.AssemblyReference.cache
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.DAL.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.DAL.AssemblyInfo.cs
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.DAL.csproj.CopyComplete
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.DAL.dll
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\refint\TestPtoject.DAL.dll
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.DAL.pdb
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\ref\TestPtoject.DAL.dll

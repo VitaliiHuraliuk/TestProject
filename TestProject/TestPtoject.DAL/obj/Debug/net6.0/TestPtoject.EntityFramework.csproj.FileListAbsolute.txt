@@ -1,0 +1,15 @@
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\bin\Debug\net6.0\TestPtoject.EntityFramework.deps.json
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\bin\Debug\net6.0\TestPtoject.EntityFramework.dll
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\bin\Debug\net6.0\TestPtoject.EntityFramework.pdb
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\bin\Debug\net6.0\TestProject.Models.dll
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\bin\Debug\net6.0\TestProject.Models.pdb
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.EntityFramework.AssemblyInfo.cs
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.EntityFramework.csproj.CopyComplete
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.EntityFramework.dll
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\refint\TestPtoject.EntityFramework.dll
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\TestPtoject.EntityFramework.pdb
+C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestPtoject.DAL\obj\Debug\net6.0\ref\TestPtoject.EntityFramework.dll
