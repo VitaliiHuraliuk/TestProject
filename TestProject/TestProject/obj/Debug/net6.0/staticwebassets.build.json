@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "A1AxbprQQtwWJoCLvl5na+B+73aOiaqJHiLKvketuPI=",
-  "Source": "TestProject",
-  "BasePath": "_content/TestProject",
+  "Hash": "HixdwLAgfLVmaoKT34NAof1iLL5BDPmDi1IZEWiXiAY=",
+  "Source": "TestProjectApi",
+  "BasePath": "_content/TestProjectApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
