@@ -10,3 +10,15 @@ C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestProject.Models\obj\D
 C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestProject.Models\obj\Debug\net6.0\refint\TestProject.Models.dll
 C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestProject.Models\obj\Debug\net6.0\TestProject.Models.pdb
 C:\Users\MI\Desktop\TestProject\TestProject\TestProject\TestProject.Models\obj\Debug\net6.0\ref\TestProject.Models.dll
+C:\Users\MI\Desktop\TestProject-main\TestProject\TestProject.Models\bin\Debug\net6.0\TestProject.Models.deps.json
+C:\Users\MI\Desktop\TestProject-main\TestProject\TestProject.Models\bin\Debug\net6.0\TestProject.Models.dll
+C:\Users\MI\Desktop\TestProject-main\TestProject\TestProject.Models\bin\Debug\net6.0\TestProject.Models.pdb
+C:\Users\MI\Desktop\TestProject-main\TestProject\TestProject.Models\obj\Debug\net6.0\TestProject.Models.csproj.AssemblyReference.cache
+C:\Users\MI\Desktop\TestProject-main\TestProject\TestProject.Models\obj\Debug\net6.0\TestProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI\Desktop\TestProject-main\TestProject\TestProject.Models\obj\Debug\net6.0\TestProject.Models.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\TestProject-main\TestProject\TestProject.Models\obj\Debug\net6.0\TestProject.Models.AssemblyInfo.cs
+C:\Users\MI\Desktop\TestProject-main\TestProject\TestProject.Models\obj\Debug\net6.0\TestProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\TestProject-main\TestProject\TestProject.Models\obj\Debug\net6.0\TestProject.Models.dll
+C:\Users\MI\Desktop\TestProject-main\TestProject\TestProject.Models\obj\Debug\net6.0\refint\TestProject.Models.dll
+C:\Users\MI\Desktop\TestProject-main\TestProject\TestProject.Models\obj\Debug\net6.0\TestProject.Models.pdb
+C:\Users\MI\Desktop\TestProject-main\TestProject\TestProject.Models\obj\Debug\net6.0\ref\TestProject.Models.dll

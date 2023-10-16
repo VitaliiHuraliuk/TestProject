@@ -33,19 +33,16 @@ namespace TestProject.Controllers
             try
             {
                 var createdDog = await _dogsService.CreateDog(dog);
-                return Ok("Собака була успішно створена.");
-            }
-            catch (ArgumentNullException ex)
-            {
-                return BadRequest(ex.Message);
-            }
-            catch (ArgumentException ex)
-            {
-                return BadRequest(ex.Message);
+                return Ok("The dog was successfully created.");
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                if (ex is ArgumentNullException || ex is ArgumentException)
+                {
+                    return BadRequest(ex.Message);
+                }
+
+                return BadRequest("Error creating dog.");
             }
         }
 

@@ -56,9 +56,15 @@ namespace TestProject.Domain.Services
                 throw new ArgumentException("Weight cannot be a negative number.");
             }
 
-            if (_context.Dogs.Any(d => d.Name == dog.Name))
+            if (dog.Color == null)
             {
-                throw new ArgumentException("A dog with the same name already exists.");
+                throw new ArgumentNullException("Color cannot be null.");
+            }
+
+            var existingDog = await _context.Dogs.FirstOrDefaultAsync(d => d.Name == dog.Name);
+            if (existingDog != null)
+            {
+                throw new ArgumentException($"Dog with name {dog.Name} already exists.");
             }
 
             try

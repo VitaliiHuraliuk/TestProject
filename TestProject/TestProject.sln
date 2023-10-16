@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{7B03A7F7-1825-443B-B900-D39D651EFBF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject\TestProject.csproj", "{7B03A7F7-1825-443B-B900-D39D651EFBF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject.Models", "TestProject.Models\TestProject.Models.csproj", "{E124A1F7-A70E-47B4-B4A9-1134A3995333}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject.Models", "TestProject.Models\TestProject.Models.csproj", "{E124A1F7-A70E-47B4-B4A9-1134A3995333}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPtoject.EntityFramework", "TestPtoject.DAL\TestPtoject.EntityFramework.csproj", "{58594439-DFEC-4CD6-85AA-332C7E454E17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPtoject.EntityFramework", "TestPtoject.DAL\TestPtoject.EntityFramework.csproj", "{58594439-DFEC-4CD6-85AA-332C7E454E17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject.Domain", "TestProject.Domain\TestProject.Domain.csproj", "{80554398-D928-473F-AA0C-22813388BD95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject.Domain", "TestProject.Domain\TestProject.Domain.csproj", "{80554398-D928-473F-AA0C-22813388BD95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "Test\UnitTest.csproj", "{EDF07066-4893-4368-A7A7-3761C427C63C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{80554398-D928-473F-AA0C-22813388BD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80554398-D928-473F-AA0C-22813388BD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80554398-D928-473F-AA0C-22813388BD95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF07066-4893-4368-A7A7-3761C427C63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF07066-4893-4368-A7A7-3761C427C63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF07066-4893-4368-A7A7-3761C427C63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF07066-4893-4368-A7A7-3761C427C63C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
