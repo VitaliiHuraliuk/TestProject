@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\UnitTest.csproj": {}
+    "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\UnitTests.csproj": {}
   },
   "projects": {
     "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestProject.Domain\\TestProject.Domain.csproj": {
@@ -291,12 +291,12 @@
         }
       }
     },
-    "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\UnitTest.csproj": {
+    "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\UnitTest.csproj",
-        "projectName": "UnitTest",
-        "projectPath": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\UnitTests.csproj",
+        "projectName": "UnitTests",
+        "projectPath": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\UnitTests.csproj",
         "packagesPath": "C:\\Users\\MI\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\obj\\",
         "projectStyle": "PackageReference",

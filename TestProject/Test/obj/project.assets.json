@@ -2714,25 +2714,6 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "TestProject/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.12",
-          "Swashbuckle.AspNetCore": "6.2.3",
-          "TestProject.Domain": "1.0.0",
-          "TestPtoject.EntityFramework": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/TestProject.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/TestProject.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
       "TestProject.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2757,6 +2738,25 @@
         "runtime": {
           "bin/placeholder/TestProject.Models.dll": {}
         }
+      },
+      "TestProjectApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.12",
+          "Swashbuckle.AspNetCore": "6.2.3",
+          "TestProject.Domain": "1.0.0",
+          "TestPtoject.EntityFramework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TestProjectApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestProjectApi.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "TestPtoject.EntityFramework/1.0.0": {
         "type": "project",
@@ -8485,11 +8485,6 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "TestProject/1.0.0": {
-      "type": "project",
-      "path": "../TestProject/TestProject.csproj",
-      "msbuildProject": "../TestProject/TestProject.csproj"
-    },
     "TestProject.Domain/1.0.0": {
       "type": "project",
       "path": "../TestProject.Domain/TestProject.Domain.csproj",
@@ -8499,6 +8494,11 @@
       "type": "project",
       "path": "../TestProject.Models/TestProject.Models.csproj",
       "msbuildProject": "../TestProject.Models/TestProject.Models.csproj"
+    },
+    "TestProjectApi/1.0.0": {
+      "type": "project",
+      "path": "../TestProject/TestProjectApi.csproj",
+      "msbuildProject": "../TestProject/TestProjectApi.csproj"
     },
     "TestPtoject.EntityFramework/1.0.0": {
       "type": "project",
@@ -8510,8 +8510,8 @@
     "net6.0": [
       "Microsoft.EntityFrameworkCore.InMemory >= 7.0.12",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
-      "TestProject >= 1.0.0",
       "TestProject.Domain >= 1.0.0",
+      "TestProjectApi >= 1.0.0",
       "TestPtoject.EntityFramework >= 1.0.0",
       "coverlet.collector >= 3.1.2",
       "xunit >= 2.4.2",
@@ -8525,9 +8525,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\UnitTest.csproj",
-      "projectName": "UnitTest",
-      "projectPath": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\UnitTests.csproj",
+      "projectName": "UnitTests",
+      "projectPath": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\MI\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\Test\\obj\\",
       "projectStyle": "PackageReference",
@@ -8553,8 +8553,8 @@
             "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestProject.Domain\\TestProject.Domain.csproj": {
               "projectPath": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestProject.Domain\\TestProject.Domain.csproj"
             },
-            "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestProject\\TestProject.csproj": {
-              "projectPath": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestProject\\TestProject.csproj"
+            "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestProject\\TestProjectApi.csproj": {
+              "projectPath": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestProject\\TestProjectApi.csproj"
             },
             "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestPtoject.DAL\\TestPtoject.EntityFramework.csproj": {
               "projectPath": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestPtoject.DAL\\TestPtoject.EntityFramework.csproj"

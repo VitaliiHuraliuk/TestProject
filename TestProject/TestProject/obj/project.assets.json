@@ -3075,9 +3075,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestProject\\TestProjectApi.csproj",
+      "projectName": "TestProjectApi",
+      "projectPath": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestProject\\TestProjectApi.csproj",
       "packagesPath": "C:\\Users\\MI\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\MI\\Desktop\\TestProject\\TestProject\\TestProject\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
